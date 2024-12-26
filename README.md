@@ -6,7 +6,7 @@
 I'm **Đông Triều** (dongtrieuit) 😃.  
 
 <p align="center">
-    <img src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="180">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p3MjQ4dHhvbTY3anZlNXpxNWd0NXU0OXpwZGkyMGhhb3NjeGZsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy-downsized-large.gif" width="180">
 </p>  
 
 ## 🙌 About Me  
