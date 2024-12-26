@@ -46,8 +46,4 @@ I'm Đông Triều (dongtrieuit).
 
 ---
 
-<p align="center">
-    <a><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
-</p>  
-
 This profile reflects my passion for coding, automation, and cloud-native development! Feel free to connect with me if you share the same interests! 🚀  
