@@ -5,6 +5,10 @@
 I'm **Đông Triều** (dongtrieuit) 😃  
 📧 **Email:** dongtrieuit@gmail.com  
 
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tnNm11OTZ0OTN4ZWt3bmQ2c2ZuYTh6ZGlibDlzdzlkdDNjaDBmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qCR6tGCytz05aXVwr/giphy.gif" width="180">
+</p>  
+
 ---
 
 ## 🧠 About Me
