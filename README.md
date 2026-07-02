@@ -45,7 +45,18 @@ I'm **Đông Triều** (dongtrieuit) 😃
 ## 🏆 Certificates
 
 <p align="center">
-  <img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/wHgPANunBG-82d1c4d3a24d1466.jpg" width="400" alt="Certificate">
+    <img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/wHgPANunBG-82d1c4d3a24d1466.jpg" width="400" alt="Certificate">
+    <br>
+    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Developer-Foundation.png" width="400" alt="Certificate akaBot Developer Foundation">
+    <br>
+    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Center.png" width="400" alt="Certificate akaBot Center">
+    <br>
+    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Studio-Foundation.png" width="400" alt="Certificate akaBot Studio Foundation">
+    <br>
+    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Platform-Introduction.png" width="400" alt="Certificate akaBot Platform Introduction">
+    <br>
+    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/RPA-Fundamentals.png" width="400" alt="Certificate RPA Fundamentals">
+    
 </p>
 
 ---
