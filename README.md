@@ -45,6 +45,8 @@ I'm **Đông Triều** (dongtrieuit) 😃
 ## 🏆 Certificates
 
 <p align="center">
+    <img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/DU8juqlpCn-bf1cf478d40c9646.jpg" width="400" alt="Certificate DevOps on AWS for Beginner">
+    <br>
     <img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/wHgPANunBG-82d1c4d3a24d1466.jpg" width="400" alt="Certificate">
     <br>
     <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Developer-Foundation.png" width="400" alt="Certificate akaBot Developer Foundation">
