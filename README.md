@@ -44,21 +44,48 @@ I'm **Đông Triều** (dongtrieuit) 😃
 
 ## 🏆 Certificates
 
-<p align="center">
-    <img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/DU8juqlpCn-bf1cf478d40c9646.jpg" width="400" alt="Certificate DevOps on AWS for Beginner">
-    <br>
-    <img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/wHgPANunBG-82d1c4d3a24d1466.jpg" width="400" alt="Certificate">
-    <br>
-    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Developer-Foundation.png" width="400" alt="Certificate akaBot Developer Foundation">
-    <br>
-    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Center.png" width="400" alt="Certificate akaBot Center">
-    <br>
-    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Studio-Foundation.png" width="400" alt="Certificate akaBot Studio Foundation">
-    <br>
-    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Platform-Introduction.png" width="400" alt="Certificate akaBot Platform Introduction">
-    <br>
-    <img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/RPA-Fundamentals.png" width="400" alt="Certificate RPA Fundamentals">
-    
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/DU8juqlpCn-bf1cf478d40c9646.jpg" width="250"><br>
+<b>DevOps on AWS</b>
+</td>
 
----
+<td align="center" width="33%">
+<img src="https://devopsedu.vn/wp-content/uploads/tutor-certificates/wHgPANunBG-82d1c4d3a24d1466.jpg" width="250"><br>
+<b>Certificate</b>
+</td>
+
+<td align="center" width="33%">
+<img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Developer-Foundation.png" width="250"><br>
+<b>akaBot Developer Foundation</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Center.png" width="250"><br>
+<b>akaBot Center</b>
+</td>
+
+<td align="center">
+<img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Studio-Foundation.png" width="250"><br>
+<b>akaBot Studio Foundation</b>
+</td>
+
+<td align="center">
+<img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/akaBot-Platform-Introduction.png" width="250"><br>
+<b>akaBot Platform Introduction</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://s3.vn-hcm-1.vietnix.cloud/github/certificates/RPA-Fundamentals.png" width="250"><br>
+<b>RPA Fundamentals</b>
+</td>
+
+<td></td>
+<td></td>
+</tr>
+</table>
